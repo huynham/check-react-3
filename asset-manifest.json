@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/huynham/check-react-3.git/static/css/main.a617e044.chunk.css",
+    "main.js": "/huynham/check-react-3.git/static/js/main.a3cbe5c0.chunk.js",
+    "main.js.map": "/huynham/check-react-3.git/static/js/main.a3cbe5c0.chunk.js.map",
+    "runtime-main.js": "/huynham/check-react-3.git/static/js/runtime-main.e25cbc2f.js",
+    "runtime-main.js.map": "/huynham/check-react-3.git/static/js/runtime-main.e25cbc2f.js.map",
+    "static/js/2.993143c3.chunk.js": "/huynham/check-react-3.git/static/js/2.993143c3.chunk.js",
+    "static/js/2.993143c3.chunk.js.map": "/huynham/check-react-3.git/static/js/2.993143c3.chunk.js.map",
+    "static/js/3.d48b724a.chunk.js": "/huynham/check-react-3.git/static/js/3.d48b724a.chunk.js",
+    "static/js/3.d48b724a.chunk.js.map": "/huynham/check-react-3.git/static/js/3.d48b724a.chunk.js.map",
+    "index.html": "/huynham/check-react-3.git/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/huynham/check-react-3.git/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.993143c3.chunk.js.LICENSE.txt": "/huynham/check-react-3.git/static/js/2.993143c3.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/huynham/check-react-3.git/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e25cbc2f.js",
+    "static/js/2.993143c3.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.a3cbe5c0.chunk.js"
+  ]
+}
